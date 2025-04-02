@@ -52,6 +52,11 @@ p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sa
   text-align: center;
 }
 
+legend{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+}
+
 fieldset{
     border-color: goldenrod;
     width: 500px;

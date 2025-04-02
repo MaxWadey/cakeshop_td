@@ -1,1 +1,1 @@
-Hey this is the pages for our soecialcakes for you to see.
+Hey this is the pages for our specialcakes for you to see.
